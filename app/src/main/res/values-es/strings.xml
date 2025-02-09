@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string-array name="categories_array">
+        <item>Trabajo</item>
+        <item>Personal</item>
+        <item>Compras</item>
+    </string-array>
+    <string-array name="priorities_array">
+        <item>Alta</item>
+        <item>Mediana</item>
+        <item>Baja</item>
+    </string-array>
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragment</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="task_deleted">Tarea eliminada</string>
+    <string name="task_completed">Tarea completada</string>
+    <string name="task_fail">Error al añadir la tarea</string>
+    <string name="task_succes">Tarea añadida correctamente</string>
+    <string name="task_edited">Tarea editada</string>
+    <string name="date">Fecha: </string>
+    <string name="time">Hora: </string>
+    <string name="category">Categoría: </string>
+    <string name="priority">Prioridad: </string>
+    <string name="note">Nota: </string>
+    <string name="task">Tarea: </string>
+    <string name="task_name">Ingresa el nombre de la tarea</string>
+    <string name="due_date">Fecha de vencimiento:</string>
+    <string name="select_date">Seleccionar fecha</string>
+    <string name="due_time">Hora de vencimiento:</string>
+    <string name="select_time">Seleccionar hora</string>
+    <string name="notes">Notas:</string>
+    <string name="enter_notes">Ingresa las notas</string>
+    <string name="add_task">Agregar tarea</string>
+    <string name="update_notes">Actualizar notas</string>
+    <string name="edit_task">Editar tarea</string>
+    <string name="name_task">LOL</string>
+    <string name="done">Hecha</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+</resources>

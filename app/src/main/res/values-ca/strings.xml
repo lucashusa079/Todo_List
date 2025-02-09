@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string-array name="categories_array">
+        <item>Treball</item>
+        <item>Personal</item>
+        <item>Compres</item>
+    </string-array>
+    <string-array name="priorities_array">
+        <item>Alta</item>
+        <item>Mitjana</item>
+        <item>Baixa</item>
+    </string-array>
+    <string name="first_fragment_label">Primer Fragment</string>
+    <string name="second_fragment_label">Segon Fragment</string>
+    <string name="next">Següent</string>
+    <string name="previous">Anterior</string>
+    <string name="task_deleted">Tasca eliminada</string>
+    <string name="task_completed">Tasca completada</string>
+    <string name="task_fail">Error en afegir la tasca</string>
+    <string name="task_succes">Tasca afegida correctament</string>
+    <string name="task_edited">Tasca editada</string>
+    <string name="date">Data: </string>
+    <string name="time">Hora: </string>
+    <string name="category">Categoria: </string>
+    <string name="priority">Prioritat: </string>
+    <string name="note">Nota: </string>
+    <string name="task">Tasques: </string>
+    <string name="task_name">Introdueix el nom de la tasca</string>
+    <string name="due_date">Data límit:</string>
+    <string name="select_date">Seleccionar data</string>
+    <string name="due_time">Hora límit:</string>
+    <string name="select_time">Seleccionar hora</string>
+    <string name="notes">Notes:</string>
+    <string name="enter_notes">Introdueix les notes</string>
+    <string name="add_task">Afegir tasca</string>
+    <string name="update_notes">Actualitzar notes</string>
+    <string name="edit_task">Editar tasca</string>
+    <string name="name_task">LOL</string>
+    <string name="done">Fet</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+</resources>

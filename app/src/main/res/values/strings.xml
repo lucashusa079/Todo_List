@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string-array name="categories_array">
+        <item>Work</item>
+        <item>Personal</item>
+        <item>Shopping</item>
+    </string-array>
+    <string-array name="priorities_array">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="task_deleted">Task Deleted</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="task_fail">Failed to add task</string>
+    <string name="task_succes">Task added successfully</string>
+    <string name="task_edited">Task edited</string>
+    <string name="date">Date: </string>
+    <string name="time">Time: </string>
+    <string name="category">Category: </string>
+    <string name="priority">Priority: </string>
+    <string name="note">Note: </string>
+    <string name="task">Task: </string>
+    <string name="task_name">Enter task name</string>
+    <string name="due_date">Due Date:</string>
+    <string name="select_date">Select Date</string>
+    <string name="due_time">Due Time:</string>
+    <string name="select_time">Select Time</string>
+    <string name="notes">Notes:</string>
+    <string name="enter_notes">Enter notes</string>
+    <string name="add_task">Add Task</string>
+    <string name="update_notes">Update notes</string>
+    <string name="edit_task">Edit task</string>
+    <string name="name_task">LOL</string>
+    <string name="done">Done</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
